@@ -1,4 +1,5 @@
 # Rime dictionary for symbols_dqwyy.schema.yaml
+# Author: dqwyy <http://enwp.org/User_talk:Dqwyy>
 
 ---
 name: symbols_dqwyy
@@ -168,3 +169,29 @@ sort: original
 （ ﾟ Дﾟ）	kmjshock
 (╯°□°）╯︵ ┻━┻	kmjtabel
 _(:3」∠)_	kmjtakazawajunsuke
+
+#emoji
+😂	emojijoy
+🙈	emojiseenoevil
+🙉	emojihearnoevil
+🙊	emojispeaknoevil
+🌐	emojiglobe
+🐸	emojifrog
+🌝	emojifullmoon
+🌚	emojinewmoon
+🎂	emojibirthday
+🍰	emojicake
+💊	emojipill
+☯	emojiyinyang
+☯	emojitaichi
+🇹🇼	emojitw
+🇨🇳	emojicn
+🇺🇸	emijius
+🇺🇳	emojiun
+🇪🇺	emojieu
+🇯🇵	emojijp
+🇰🇵	emojikp
+🇰🇷	emojikr
+🇲🇴	emojimo
+🇭🇰	emojihk
+🇬🇧	emojigb
