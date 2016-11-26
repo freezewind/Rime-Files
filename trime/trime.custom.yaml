@@ -1,0 +1,43 @@
+# Customizated by dqwyy
+# Contact me: http://enwp.org/User_talk:Dqwyy
+# Version: 0.1.20161126
+customization:
+  distribution_code_name: ""
+  distribution_version: ""
+  generator: "Rime-JNI"
+  modified_time: "Fri Oct 14 00:03:48 2016"
+  rime_version: 1.2.9
+patch:
+  "style/color_scheme": skype
+  style/inline_preedit: none    #嵌入模式（preview:將首位候選嵌入到文本框中；composition:將編碼區嵌入到文本框；input:將編碼嵌入到文本框中；none:不嵌入）
+  preset_keys/Return:
+    label: ↵
+    send: Return
+  preset_keys/Henkan:
+    send: Mode_switch
+    states: ["正體", "简体"]
+    toggle: simplification
+  preset_keys/Zenkaku_Hankaku:
+    send: Mode_switch
+    states: ["半形", "全形"]
+    toggle: full_shape
+  preset_keys/BackSpace:
+    label: "⌫"
+    repeatable: true
+    send: BackSpace
+  preset_keys/paste:
+    label: "^V"
+    send: "Control+v"
+  preset_keys/CommitRawInput:
+    label: "^Enter"
+    send: "Control+Return"
+  preset_keys/DeleteCandidate:
+    label: "^Del"
+    send: "Control+Delete"
+  preset_keyboards/bopomofo:
+    ascii_mode: 0
+    author: "皛筱晓小笨鱼 & dqwyy <http://enwp.org/User_talk:Dqwyy>"
+    height: 50
+    keys: [{click: 1, label: "ㄅ", long_click: "!", hint: "test"}, {click: 2, label: "ㄉ", long_click: "@"}, {click: 3, label: "ˇ", long_click: "#"}, {click: 4, label: "ˋ", long_click: "$"}, {click: 5, label: "ㄓ", long_click: "%"}, {click: 6, label: "ˊ", long_click: "^"}, {click: 7, label: "˙", long_click: "&"}, {click: 8, label: "ㄚ", long_click: "*"}, {click: 9, label: "ㄞ", long_click: "("}, {click: 0, label: "ㄢ", long_click: ")", swipe_down: Hide}, {click: q, label: "ㄆ", long_click: _}, {click: w, label: "ㄊ", long_click: "-"}, {click: e, label: "ㄍ", long_click: "+"}, {click: r, label: "ㄐ", long_click: "="}, {click: t, label: "ㄔ", long_click: "|"}, {click: y, label: "ㄗ", long_click: "\\"}, {click: u, label: "ㄧ", long_click: "["}, {click: i, label: "ㄛ", long_click: "]"}, {click: o, label: "ㄟ", long_click: "{"}, {click: p, label: "ㄣ", long_click: "}"}, {click: a, label: "ㄇ", long_click: "`"}, {click: s, label: "ㄋ", long_click: Up}, {click: d, label: "ㄎ", long_click: DeleteCandidate, swipe_right: Delete}, {click: f, label: "ㄑ", long_click: "!"}, {click: g, label: "ㄕ", long_click: select_all}, {click: h, label: "ㄘ", long_click: Home}, {click: j, label: "ㄨ", long_click: End}, {click: k, label: "ㄜ", long_click: Page_Up}, {click: l, label: "ㄠ", long_click: Page_Down}, {click: ";", label: "ㄤ", long_click: ":"}, {click: z, label: "ㄈ", long_click: Left}, {click: x, label: "ㄌ", long_click: Down}, {click: c, label: "ㄏ", long_click: Right}, {click: v, label: "ㄒ", long_click: paste}, {click: b, label: "ㄖ", long_click: copy}, {click: n, label: "ㄙ", long_click: paste}, {click: m, label: "ㄩ", long_click: Insert}, {click: ",", label: "ㄝ", long_click: "<"}, {click: ., label: "ㄡ", long_click: ">"}, {click: "/", label: "ㄥ", long_click: "?"}, {click: Hide, long_click: Delete}, {click: Mode_switch, long_click: Menu}, {click: Keyboard_symbols, long_click: Keyboard_number}, {click: space, width: 30}, {click: "-", label: "ㄦ", long_click: "\""}, {click: "，", label: "，°", swipe_up: "。"}, {click: BackSpace, width: 10}, {click: Return, long_click: CommitRawInput, width: 10}]
+    name: "大千註音鍵盤"
+    width: 10
