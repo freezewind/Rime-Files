@@ -1,9 +1,9 @@
-﻿# 朙月拼音自訂補丁檔 version: 0.20.20161022
+﻿# 朙月拼音自訂補丁檔 version: 1.0
 patch:
   schema/author:
     - "佛振 <chen.sst@gmail.com>"
     - "customization: dqwyy <http://enwp.org/User_talk:Dqwyy>"
-  schema/version: 0.20.20161006
+  schema/version: 1.0    # log: 0.23~1.0
   punctuator/half_shape: # 自訂符號輸入
     "%" : "%"
     "*" : "*"

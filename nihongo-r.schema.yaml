@@ -1,4 +1,4 @@
-# 此爲經過自訂的 nihongo-r 方案  version: 1.0.20161022
+# 此爲經過自訂的 nihongo-r 方案  version: 1.1
 engine:
   processors:
     - ascii_composer
@@ -74,7 +74,7 @@ schema:
     - "customization: dqwyy <http://enwp.org/User_talk:Dqwyy>"
   name: "ヘボン式ローマ字（ー=q っ=t）"
   schema_id: "nihongo-r"
-  version: 1.0.20161022
+  version: 1.1    # log: 1.0~1.1
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"

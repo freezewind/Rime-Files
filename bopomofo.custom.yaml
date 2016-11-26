@@ -1,4 +1,4 @@
-﻿# 注音自訂補丁檔 version: 1.6.20161022
+﻿# 注音自訂補丁檔 version: 2.1
 patch:
   schema/name: "大千注音"
   schema/author:
@@ -12,7 +12,7 @@ patch:
     
     請配合 librime>=0.9.8 使用。
     
-  schema/version: 1.6.20161022
+  schema/version: 2.1    # log: 2.0~2.1
   engine/processors:    # 取消語句流
     - ascii_composer
     - recognizer
