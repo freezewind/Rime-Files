@@ -1,0 +1,10 @@
+patch:
+  "translator/preedit_format":
+    - xfrom/([iuv])([bpmfdtnlgkhjqxZCSrzcs])/$2$1/
+    - xfrom/([aoeEAIOUMNKGR])([bpmfdtnlgkhjqxZCSrzcs])/$2$1/
+    - xfrom/([aoeEAIOUMNKGR])([iuv])/$2$1/
+    - xfrom/([iuv])([bpmfdtnlgkhjqxZCSrzcs])/$2$1/
+    - xfrom/([aoeEAIOUMNKGR])([iuv])/$2$1/
+    - xfrom/([aoeEAIOUMNKGR])([bpmfdtnlgkhjqxZCSrzcs])/$2$1/
+    - xfrom/([iuv])([bpmfdtnlgkhjqxZCSrzcs])/$2$1/
+    - "xlit|1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/- 6347'|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦˉˊˇˋ˙ |"
