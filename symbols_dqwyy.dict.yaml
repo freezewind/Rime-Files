@@ -3,7 +3,7 @@
 
 ---
 name: symbols_dqwyy
-version: "0.1.20161125"
+version: "0.1.20161229"
 sort: original
 ...
 
@@ -170,6 +170,10 @@ sort: original
 （ ﾟ Дﾟ）	kmjshock
 (╯°□°）╯︵ ┻━┻	kmjtabel
 _(:3」∠)_	kmjtakazawajunsuke
+(=θωθ=)	kmjnameless
+ㄟ(￣▽￣ㄟ)	kmjnameless
+('・ω・')	kmjnameless
+(๑•̀ㅁ•́๑)✧	kmjnameless
 
 #emoji
 😂	emojijoy
@@ -196,3 +200,5 @@ _(:3」∠)_	kmjtakazawajunsuke
 🇲🇴	emojimo
 🇭🇰	emojihk
 🇬🇧	emojigb
+🐶	emojidog
+🔫	emojigun
