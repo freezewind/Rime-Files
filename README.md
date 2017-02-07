@@ -5,14 +5,3 @@
 本代碼庫部分內容參考或復刻了以下用戶的作品，我在此對他們表示感謝：
 * [佛振](https://github.com/lotem) 様
 * 天珩 様
-test
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>test
-<br \><br \><br \><br \><br \><br \><br \><br \>
-test
