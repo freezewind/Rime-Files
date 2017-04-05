@@ -4,4 +4,5 @@
 
 本代碼庫部分內容參考或復刻了以下用戶的作品，我在此對他們表示感謝：
 * [佛振](https://github.com/lotem) 様
-* 天珩 様
+* [天珩](https://www.zhihu.com/people/sim-ch) 様
+* [石𫁶](https://www.zhihu.com/people/liu-song-quan-59) 様
