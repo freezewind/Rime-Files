@@ -1,0 +1,31 @@
+# 朙月拼音自訂補丁檔 version: 1.0
+patch:
+  schema/author:
+    - "佛振 <chen.sst@gmail.com>"
+    - "customization: dqwyy <http://enwp.org/User_talk:Dqwyy>"
+  schema/version: 1.0    # log: 0.23~1.0
+  punctuator/half_shape: # 自訂符號輸入
+    "%" : "%"
+    "*" : "*"
+    "/" : "/"
+    "<" : "《"
+    ">" : "》"
+    "[" : "["
+    "\\" : "、"
+    "]" : "]"
+    "`" : "·"
+    "{" : "{"
+    "|" : "|"
+    "}" : "}"
+    "~" : "~"
+    "$": "¥"
+    "'" : "'"
+  switches:
+    - name: ascii_mode
+      reset: 0
+    - name: full_shape
+    - name: ascii_punct
+    - name: zh_simp
+      reset: 1                # 增加這一行：默認啓用「繁→簡」轉換。
+  simplifier:
+    option_name: zh_simp
