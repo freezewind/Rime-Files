@@ -18,6 +18,10 @@ sort: original
 ©	copyright
 ®	register
 §	chapter
+♂	male
+♂	mars
+♀	female
+♀	venus
 
 # 常用希臘字母
 α	elalpha
@@ -30,6 +34,8 @@ sort: original
 Γ	gamma
 δ	eldelta
 δ	delta
+Δ	eldelta
+Δ	delta
 ε	elepsilon
 ε	epsilon
 η	eleta
@@ -79,7 +85,7 @@ sort: original
 ā	pya
 á	pya
 ǎ	pya
-à	pyi
+à	pya
 ē	pye
 é	pye
 ě	pye
@@ -202,3 +208,17 @@ _(:3」∠)_	kmjtakazawajunsuke
 🇬🇧	emojigb
 🐶	emojidog
 🔫	emojigun
+
+# IDC
+⿰	idc
+⿱	idc
+⿲	idc
+⿳	idc
+⿴	idc
+⿵	idc
+⿶	idc
+⿷	idc
+⿸	idc
+⿹	idc
+⿺	idc
+⿻	idc

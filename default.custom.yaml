@@ -17,5 +17,6 @@ patch:
     - {accept: "Control+period", toggle: ascii_punct, when: always}
   schema_list:
     - {schema: bopomofo}
+    - {schema: "nihongo-r"}
   "switcher/hotkeys":
     - "Control+Shift+O"

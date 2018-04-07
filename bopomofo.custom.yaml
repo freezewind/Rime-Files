@@ -1,4 +1,4 @@
-﻿# 注音自訂補丁檔 version: 2.1
+# 注音自訂補丁檔 version: 2.1
 patch:
   schema/name: "大千注音"
   schema/author:
@@ -34,7 +34,7 @@ patch:
     ")": {commit: "）"}
     "*": {commit: "*"}
     "+": {commit: "+"}
-    ":": ["：", "；", "《》", "『』"]
+    ":": ["：", "；", "《》", "『』", "“”"]
     "<": {commit: "，"}
     "=": {commit: "="}
     ">": {commit: "。"}
